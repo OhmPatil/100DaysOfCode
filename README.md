@@ -4,6 +4,8 @@
 
 - Will attempt to update this repo everyday for the next 100 days.
 
+- ()[/Days/Day1.md]
+
 # Commitment Timeline
 
 | From | To |
