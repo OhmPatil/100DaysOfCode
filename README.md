@@ -1,5 +1,8 @@
 # 100DaysOfCode
 
+~ Challenging myself and testing/improving my consistency by learning DSA in Java for 100 days straight.
+~ Will attempt to update this repo everyday for the next 100 days.
+
 # Commitment Timeline
 
 | From | To |
