@@ -15,7 +15,7 @@
 |  Day |  Topic | Extra Notes  |
 | ------------ | ------------ | ------------ |
 | 1  | [Input/Output, Debugging and Datatypes](https://www.youtube.com/watch?v=TAtrPoaJ7gc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=5)  | Great for begineers  |
-|   |   |   |
+| 2  | [Loops & Switch Case](https://www.youtube.com/watch?v=ldYLYRNaucM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=5)  |  -  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
