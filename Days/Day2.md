@@ -3,6 +3,7 @@
 ### Things Completed:
 - Switch case
 - For / While loops
+- For each loop
 
 ### Sources:
 [Loops and conditionals](https://www.youtube.com/watch?v=ldYLYRNaucM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=5)
