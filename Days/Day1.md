@@ -14,5 +14,5 @@ Revised basic Java syntax and other begineer stuff including:
 
 ### Code:
 
-Find the code I practiced on day 1 [here](Code/Day%201)
+Find the code I practiced on day 1 [here](Code/Day 1)
 
