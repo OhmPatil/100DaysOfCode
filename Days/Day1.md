@@ -14,5 +14,5 @@ Revised basic Java syntax and other begineer stuff including:
 
 ### Code:
 
-Find the code I practiced on day 1 [here](Code/Day 1)
+Find the code I practiced on day 1 [here](https://github.com/OhmPatil/100DaysOfCode/tree/main/Code/Day%201)
 
