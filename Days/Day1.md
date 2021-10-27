@@ -12,5 +12,7 @@ Revised basic Java syntax and other begineer stuff including:
 
 [First Java Program - Input/Output, Debugging and Datatypes](https://www.youtube.com/watch?v=TAtrPoaJ7gc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=5) (For absolute begineers)
 
-##### Goal for tomorrow:
-Do some basic questions based upon conditions and logic and move on to the next chapter.
+### Code:
+
+Find the code I practiced on day 1 [here](Code/Day%201)
+
