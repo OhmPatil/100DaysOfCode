@@ -4,20 +4,20 @@
 
 - Will attempt to update this repo everyday for the next 100 days.
 
-## Commitment Timeline
 
-| From | To |
-|---|---|
-| 24 Oct 2021 | 1 Feb 2022 |
+ Objective Update:
+[Web Dev with Python, Django and Javascript](https://cs50.harvard.edu/web/2020/)
+
+
 
 ## Sources
 
 |  Day |  Topic |
 | ------------ | ------------ |
-| 1  | [Input/Output, Debugging and Datatypes](https://www.youtube.com/watch?v=TAtrPoaJ7gc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=5)
-| 2  | [Loops & Switch Case](https://www.youtube.com/watch?v=ldYLYRNaucM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=5)  |
-| 3 | [Methods\Functions](https://www.youtube.com/watch?v=vvanI8NRlSI&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=7)  |
-| 4  | [Arrays & ArrayList](https://www.youtube.com/watch?v=n60Dn0UsbEk&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=8)  |
-| 5 & 6  | [Linear Search Algorithm](https://www.youtube.com/watch?v=_HRA37X8N_Q&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=9)  |
-| 7 & 8  | Did questions based on linear search |
-| 9 & 10 | Practiced [these](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/06-searching.md) questions from leetCode |
+| 1  | [Input/Output, Debugging and Datatypes](/Days/Day01.md)
+| 2  | [Loops & Switch Case](/Days/Day02.md)  |
+| 3 | [Methods\Functions](/Days/Day03.md)  |
+| 4  | [Arrays & ArrayList](/Days/Day04.md)  |
+| 5 & 6  | [Linear Search Algorithm](/Days/Day05%2C06.md)  |
+| 7 & 8  | [Did questions based on linear search](/Days/Day07%2C08.md) |
+| 9 & 10 | [Practiced questions from leetCode](/Days/Day09%2C10.md) |
